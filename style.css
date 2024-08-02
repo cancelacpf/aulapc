@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Galeria Free Fire</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Galeria Free Fire</h1>
+    </header>
+    <div class="gallery">
+        <img src="https://via.placeholder.com/400x300?text=Imagem+1" alt="Imagem 1">
+        <img src="https://via.placeholder.com/400x300?text=Imagem+2" alt="Imagem 2">
+        <img src="https://via.placeholder.com/400x300?text=Imagem+3" alt="Imagem 3">
+        <img src="https://via.placeholder.com/400x300?text=Imagem+4" alt="Imagem 4">
+        <img src="https://via.placeholder.com/400x300?text=Imagem+5" alt="Imagem 5">
+    </div>
+</body>
+</html>
